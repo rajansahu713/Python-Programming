@@ -43,13 +43,14 @@
   -Harshit Vashisth (Hindi)
   -Sentdex
 
-## -Best Instagram Account to Learn Python Programming
+-Best Instagram Account to Learn Python Programming
   -python.learning
   -python.hub
   -python.instructions
   -python.science
 
-## -Reference¶
+
+-Reference¶
   -https://www.python.org/
   -https://pandas.pydata.org/
   -https://numpy.org/doc/
